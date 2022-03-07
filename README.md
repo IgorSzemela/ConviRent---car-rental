@@ -8,3 +8,4 @@ Recommended order to get familiar with content of that repository:
 3) StarterClassDiagram.png
 4) PhysicalArchitecture.png
 5) SystemLogicalArchitecture.png
+6) DynamicDiagrams folder 
