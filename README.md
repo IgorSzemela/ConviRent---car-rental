@@ -4,4 +4,4 @@
 
 Recommended order to get familiar with content of that repository:
 1) ConviRent_Vision.pdf
-2) 
+2) UseCaseDiagram.png
